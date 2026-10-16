@@ -24,7 +24,7 @@ API REST para gestão de usuários com autenticação, controle de permissões e
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/api-gestao-usuarios.git
+git clone https://github.com/joao-guilherm-dev/api-gestao-usuarios.git
 cd api-gestao-usuarios
 
 # Crie e ative um ambiente virtual
